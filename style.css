@@ -1,0 +1,38 @@
+body {
+    font-family: 'Georgia', serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    background: #fdfdfd;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 2em;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .btn {
+    display: inline-block;
+    background: #333;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .projects article {
+    margin-bottom: 2em;
+  }
+  
